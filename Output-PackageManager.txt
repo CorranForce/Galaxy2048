@@ -1,0 +1,7 @@
+﻿NuGet package restore finished.
+Time Elapsed: 00:00:02.7239499
+========== Finished ==========
+
+Time Elapsed: 00:00:00.0437633
+========== Finished ==========
+
